@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        int ticket = 3333;
-        int rubles = 20;
-        int milli = ticket / rubles;
+        int amountTicket = 3333;
+        int numberRubles = 20;
+        int milli = amountTicket / numberRubles;
         System.out.println(milli);
 
         // Объявляете переменные для входных данных и
